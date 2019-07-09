@@ -5,7 +5,7 @@
   <groupId>com.learnmaven</groupId>
   <artifactId>mavendemo-webapp</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version> <!-- some comment -->
   
   <name>mavendemo-webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
